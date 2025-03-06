@@ -1,0 +1,5 @@
+[project]
+name = "cc-notifier"
+version = "0.1.0"
+description = "🔔 Smart macOS + Push Notifications for Claude Code"
+requires-python = ">=3.10"
